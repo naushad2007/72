@@ -4,7 +4,7 @@
 \alias{nyt_search}
 \title{nyt_search}
 \usage{
-nyt_search(q, n = 100, end_date = NULL, apikey = tgrtrytrytujytuyikjkjkjkjkjkkjkhjhjh, ...)
+nyt_search(q, n = 100, end_date = NULL, apikey =tgrtrytrytujytuyikjkjkjkjkjkkjkhjhjh,)
 }
 \arguments{
 \item{q}{Search query.}
